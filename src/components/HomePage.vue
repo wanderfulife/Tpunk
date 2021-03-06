@@ -15,6 +15,7 @@
 <div class="box box2">FESTIVAL</div>
 <div class="box box3">EXPOSITION</div>
 </div>
+<div>hello</div>
 </div>
 </template>
 
